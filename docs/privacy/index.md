@@ -1,17 +1,17 @@
-# Privacy Policy – PoiseLog
+# Privacy Policy – Manual Activity Log (PoiseLog)
 
-PoiseLog respects your privacy.
+Manual Activity Log (PoiseLog) respects your privacy.
 
 ## Data Collection
-PoiseLog does **not collect, store, or transmit personal data** to external servers.
+Manual Activity Log (PoiseLog) does **not collect, store, or transmit personal data** to external servers.
 
 ## Health Data
-PoiseLog may write workout data to **Apple Health** only after explicit user permission.
-PoiseLog does not read, analyze, or transmit health data to any external service.
+Manual Activity Log (PoiseLog) may write workout data to **Apple Health** only after explicit user permission.
+Manual Activity Log (PoiseLog) does not read, analyze, or transmit health data to any external service.
 All health data remains on the user’s device and within Apple’s Health ecosystem.
 
 ## Third Parties
-PoiseLog does **not use** third-party analytics, tracking, or advertising SDKs.
+Manual Activity Log (PoiseLog) does **not use** third-party analytics, tracking, or advertising SDKs.
 
 ## Accounts & Internet
 No account is required. PoiseLog works offline.
