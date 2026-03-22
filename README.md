@@ -1,2 +1,2 @@
-# Manual Activity Log (poiselog)
-Manual Activity Log (PoiseLog) – log workouts without Apple Watch
+# VorilaLog (poiselog)
+VorilaLog(PoiseLog) – log workouts without Apple Watch
