@@ -1,23 +1,25 @@
-# Privacy Policy – Manual Activity Log (PoiseLog)
+# Privacy Policy
 
-Manual Activity Log (PoiseLog) respects your privacy.
+This privacy policy applies to VorilaLog.
 
 ## Data Collection
-Manual Activity Log (PoiseLog) does **not collect, store, or transmit personal data** to external servers.
+
+VorilaLog does not collect personal data unless explicitly stated inside the app.
 
 ## Health Data
-Manual Activity Log (PoiseLog) may write workout data to **Apple Health** only after explicit user permission.
-Manual Activity Log (PoiseLog) does not read, analyze, or transmit health data to any external service.
-All health data remains on the user’s device and within Apple’s Health ecosystem.
+
+VorilaLog may access Apple Health data, such as workouts and active energy, only if the user grants permission. This data is used solely for app functionality and is not sold or shared with third parties.
+
+## Accounts
+
+No account is required to use VorilaLog.
 
 ## Third Parties
-Manual Activity Log (PoiseLog) does **not use** third-party analytics, tracking, or advertising SDKs.
 
-## Accounts & Internet
-No account is required. PoiseLog works offline.
+VorilaLog does not sell personal data and does not share health data with third parties.
 
 ## Contact
-Sebastian Kerski  
-sekidev@icloud.com
 
-_Last updated: February 2026_
+For privacy questions, contact: **sekidev@icloud.com**
+
+[Back to app page](/poiselog/) · [Support](/poiselog/support/)
