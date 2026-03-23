@@ -1,10 +1,10 @@
 # Privacy Policy
 
-This privacy policy applies to VorilaLog.
+This privacy policy applies to VorilaLog (PoiseLog).
 
 ## Data Collection
 
-VorilaLog (PoiseLog) does not collect personal data unless explicitly stated inside the app.
+VorilaLog does not collect personal data unless explicitly stated inside the app.
 
 ## Health Data
 
